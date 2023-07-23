@@ -1,7 +1,5 @@
 # Simple Contact Form
 
-![Contact Form Screenshot](contact_form_screenshot.png)
-
 The Simple Contact Form is a basic web application built using PHP, Bootstrap, JavaScript, and MySQL. It allows users to submit their contact information and messages, which are then stored in a MySQL database. Admin can see the sent messages.
 
 ## 🚀 Features
